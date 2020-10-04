@@ -39,7 +39,7 @@ My name is **GamingCraft_hd**, i'm a german student coding in **java** and **C#*
   - UWP
 - DOM
   - HTML
-    - Made some nice websites with HTML like [this one](https://gamingcraft.de) or [this one](https://uc.gamingcraft.de)
+    - Made some nice websites with HTML like [this one](https://www.gamingcraft.de) or [this one](https://uc.gamingcraft.de)
   - SVG
     - Experience with the SVG Format
     - Experience with Inkscape
