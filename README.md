@@ -1,4 +1,4 @@
-### Hello World! 👋
+### Hello World!  \\(^-^)/
 My name is **GamingCraft_hd** and i'm a german student coding in **Java** and **C#**.
 
 <table>
