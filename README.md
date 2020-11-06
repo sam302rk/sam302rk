@@ -3,23 +3,15 @@ My name is **GamingCraft_hd** and i'm a german student coding in **Java** and **
 
 <table>
 <tr>
-<th> My current Projects </th>
-<th> Other projects of mine </th>
+<th> My Projects </th>
 </tr>
 <tr>
 <td>
     
 - [Utility Client](https://uc.gamingcraft.de/)
-- PixelSplash
+- [PixelSplash](https://www.gamingcraft.de/)
 - [Statify](https://www.github.com/StatifyBot)
 
-</td>
-<td>
-    
-- LittlePixelJumper (dead)
-- [BlockVillage.net](https://github.com/BlockVillage-net)
-- [GNETProject](https://github.com/GNETProject) (dead)
-    
 </td>
 </tr>
 </table>
