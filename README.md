@@ -11,6 +11,7 @@ My name is **GamingCraft_hd** and i'm a german student coding in **Java** and **
     
 - [Utility Client](https://uc.gamingcraft.de/)
 - PixelSplash
+- [Statify](https://www.github.com/StatifyBot)
 
 </td>
 <td>
