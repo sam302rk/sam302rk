@@ -5,8 +5,8 @@ My name is **GamingCraft_hd** and i'm a german student coding in **Java** and **
 [BlockVillage.net](https://www.blockvillage.net/) - [Utility Client](https://uc.gamingcraft.de/) - [PixelSplash](https://www.gamingcraft.de/) - [Ashley](https://www.github.com/AshleyDCBot) - [Statify](https://www.github.com/StatifyBot) - [MP-Test](https://github.com/GamingCrafthd/MP-Test)<br>
 
 ## My best repos
-[![Utility-Client](https://github-readme-stats.vercel.app/api/pin/?username=Utility-Client&repo=UtilityClient3&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,ff4343,ff8f43)](https://github.com/Utility-Client/UtilityClient3)
-[![EZ-JFrame](https://github-readme-stats.vercel.app/api/pin/?username=GamingCrafthd&repo=EZJFrame&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,ff4343,ff8f43)](https://github.com/GamingCrafthd/EZJFrame)
+[![Utility-Client](https://github-readme-stats.vercel.app/api/pin/?username=Utility-Client&repo=UtilityClient3&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,ff4343,ff8f43&hide_border=true)](https://github.com/Utility-Client/UtilityClient3)
+[![EZ-JFrame](https://github-readme-stats.vercel.app/api/pin/?username=GamingCrafthd&repo=EZJFrame&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,ff4343,ff8f43&hide_border=true)](https://github.com/GamingCrafthd/EZJFrame)
 
 ## Stats about me
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamingcrafthd&show_icons=true&hide_border=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,ff4343,ff8f43" />
