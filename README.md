@@ -2,7 +2,7 @@
 My name is **GamingCraft_hd** and i'm a german student coding in **Java** and **C#**.
 
 ## My Projects
-[BlockVillage.net](https://www.blockvillage.net/) - [Utility Client](https://uc.gamingcraft.de/) - [PixelSplash](https://www.gamingcraft.de/) - [Ashley](https://www.github.com/AshleyDCBot) - [Statify](https://www.github.com/StatifyBot) - [MP-Test](https://github.com/GamingCrafthd/MP-Test)<br>
+[BlockVillage.net](https://www.blockvillage.net/) - [Utility Client](https://uc.gamingcraft.de/) - [PixelSplash](https://www.gamingcraft.de/) - [Ashley](https://www.github.com/AshleyDCBot) - [MP-Test](https://github.com/GamingCrafthd/MP-Test)<br>
 
 ## My best repos
 [![Utility-Client](https://github-readme-stats.vercel.app/api/pin/?username=Utility-Client&repo=UtilityClient3&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,ff4343,ff8f43&hide_border=true)](https://github.com/Utility-Client/UtilityClient3)
