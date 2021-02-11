@@ -1,5 +1,13 @@
-### Hello World!  \\(^-^)/
-My name is **GamingCraft_hd** and i'm a german student coding in **Java** and **C#**.
+### Hello! I'm [GamingCraft_hd](https://www.gamingcraft.de/)!
+I'm a Java Developer!<br>
+If I don't use Java, I use JavaScript (Node.js) or C#.<br>
+
+You can find more about me [on my Website!](https://www.gamingcraft.de/)!
+
+#### Get in touch with me:
+- [@GamingCraft_hd#3551](https://www.discord.com/) (Discord)
+- [@GamingCraft001](https://www.twitter.com/gamingcraft001) (Twitter)
+- [GamingCraft001](https://www.instagram.com/gamingcraft001) (Instagram)
 
 ## My Projects
 ![BlockVillage.net](./svg/BlockVillage.svg) ![Utility-Client³](./svg/UtilityClient.svg) ![Ashley-Bot](./svg/AshleyBot.svg) ![PixelSplash](./svg/PixelSplash.svg)
