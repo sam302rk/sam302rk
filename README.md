@@ -2,7 +2,8 @@
 My name is **GamingCraft_hd** and i'm a german student coding in **Java** and **C#**.
 
 ## My Projects
-[BlockVillage.net](https://www.blockvillage.net/) - [Utility Client](https://uc.gamingcraft.de/) - [PixelSplash](https://www.gamingcraft.de/) - [Ashley](https://www.github.com/AshleyDCBot) - [MP-Test](https://github.com/GamingCrafthd/MP-Test)<br>
+<!--[BlockVillage.net](https://www.blockvillage.net/) - [Utility Client](https://uc.gamingcraft.de/) - [PixelSplash](https://www.gamingcraft.de/) - [Ashley](https://www.github.com/AshleyDCBot) - [MP-Test](https://github.com/GamingCrafthd/MP-Test)<br>-->
+![BlockVillage.net](./svg/BlockVillage.svg) ![Utility-Client³](./svg/UtilityClient.svg)
 
 ## Other Projects
 ![TICS 3 by Trainsa](./svg/TICS3.svg)
