@@ -2,7 +2,7 @@
 I'm a Java Developer!<br>
 If I don't use Java, I use JavaScript (Node.js) or C#.<br>
 
-You can find more about me [on my Website!](https://www.gamingcraft.de/)!
+You can find more about me [on my website](https://www.gamingcraft.de/)!
 
 #### Get in touch with me:
 - [@GamingCraft_hd#3551](https://www.discord.com/) (Discord)
