@@ -1,6 +1,5 @@
 ### Hello! I'm [GamingCraft_hd](https://www.gamingcraft.de/)!
-I'm a Java Developer!<br>
-If I don't use Java, I use JavaScript (Node.js) or C#.<br>
+I'm a student and developer coding mainly in Java, C# and Node.js.
 
 You can find more about me [on my website](https://www.gamingcraft.de/)!
 
