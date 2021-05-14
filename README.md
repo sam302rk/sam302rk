@@ -1,5 +1,10 @@
 ### Hello! I'm [GamingCraft_hd](https://www.gamingcraft.de/)!
-I'm a student and developer coding mainly in Java, C# and Node.js.
+I maintain and create projects mainly written in
+- Java
+- C#
+- JavaScript
+- TypeScript
+- Python
 
 You can find more about me [on my website](https://www.gamingcraft.de/)!
 
