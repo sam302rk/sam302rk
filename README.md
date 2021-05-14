@@ -4,6 +4,8 @@ I'm a student and developer coding mainly in Java, C# and Node.js.
 You can find more about me [on my website](https://www.gamingcraft.de/)!
 
 #### Get in touch with me:
+- E-Mail [@gamingcraft.de](mailto://samuel.mischl@gamingcraft.de)
+- BlockVillage.net E-Mail [@blockvillage.net](mailto://samuel.mischl@blockvillage.net)
 - Discord [@GamingCraft_hd#3551](https://www.discord.com/)
 - Twitter [@GamingCraft001](https://www.twitter.com/gamingcraft001)
 - Instagram [GamingCraft001](https://www.instagram.com/gamingcraft001)
