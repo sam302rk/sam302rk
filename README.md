@@ -16,7 +16,7 @@ You can find more about me [on my website](https://www.gamingcraft.de/)!
 - Instagram [GamingCraft001](https://www.instagram.com/gamingcraft001)
 
 ## My Projects
-![BlockVillage.net](./svg/BlockVillage.svg) ![Utility-Client³](./svg/UtilityClient.svg) ![Ashley-Bot](./svg/AshleyBot.svg) ![PixelSplash](./svg/PixelSplash.svg)
+[![BlockVillage.net](./svg/BlockVillage.svg)](https://www.blockvillage.net) [![Utility-Client³](./svg/UtilityClient.svg)](https://uc.gamingcraft.de) [![Ashley-Bot](./svg/AshleyBot.svg)](https://github.com/AshleyDCBot) [![PixelSplash](./svg/PixelSplash.svg)](https://www.gamingcraft.de/)
 <!-- MP-Test Design is missing, but it isn't a "real" game so I'll be leaving the game out for now. -->
 
 ## Other Projects
