@@ -19,9 +19,6 @@ You can find more about me [on my website](https://www.gamingcraft.de/)!
 [![BlockVillage.net](./svg/BlockVillage.svg)](https://www.blockvillage.net) [![Utility-Client³](./svg/UtilityClient.svg)](https://uc.gamingcraft.de) [![Ashley-Bot](./svg/AshleyBot.svg)](https://github.com/AshleyDCBot) [![PixelSplash](./svg/PixelSplash.svg)](https://www.gamingcraft.de/)
 <!-- MP-Test Design is missing, but it isn't a "real" game so I'll be leaving the game out for now. -->
 
-## Other Projects
-![TICS 3 by Trainsa](./svg/TICS3.svg)
-
 ## Stats about me
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamingcrafthd&show_icons=true&hide_border=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,ff4343,ff8f43" />
     <img align="right" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gamingcrafthd&show_icons=true&hide_border=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,ff4343,ff8f43" />
