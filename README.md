@@ -1,6 +1,7 @@
 ### Hello! I'm [GamingCraft_hd](https://www.gamingcraft.de/)!
 I maintain and create projects mainly written in
 - Java
+- C++
 - C#
 - JavaScript
 - TypeScript
